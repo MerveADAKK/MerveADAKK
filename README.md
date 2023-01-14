@@ -1,7 +1,7 @@
 <h2 align="center">Hello there! 👋 I'm Merve</h2>
 
-- 👾  I’m currently working with **Java
-- 📫  How to reach me **merveadak983@gmail.com
+- 👾  I’m currently working with Java
+- 📫  How to reach me merveadak983@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
